@@ -92,4 +92,8 @@
     <string name="network_options_title">Options</string>
     <string name="network_traffic_autohide_title">Hide network traffic is inactive</string>
     <string name="network_traffic_autohide_summary">Hide when network traffic is below 1KB/s</string>
+
+    <!-- Navigation bar hint -->
+    <string name="hide_navbar_gesture_bar_title">Hide gesture bar</string>
+    <string name="hide_navbar_gesture_bar_summary">Hide the gesture bar at the bottom of the screen</string>
 </resources>
